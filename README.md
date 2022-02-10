@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Void Client
 
 You can use the [editor on GitHub](https://github.com/void123456789/www.voidclient.ga/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
